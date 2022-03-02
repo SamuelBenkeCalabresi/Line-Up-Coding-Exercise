@@ -50,7 +50,7 @@ const UserCard = () => {
   }
 
   return (
-    <Card align="center" margin="small" elevation="large" animation="fadeIn">
+    <Card align="center" margin="large" elevation="large" animation="fadeIn">
       <CardHeader fill background={colors.primary} pad="medium">
         <Avatar src={user.data.avatar} size="large" margin="small" />
         <Text textAlign="center" margin="small" size="xxx-large" weight="bold">

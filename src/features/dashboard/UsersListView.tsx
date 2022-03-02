@@ -111,7 +111,7 @@ export default function UsersListView() {
             },
           }}
         >
-          <Card margin="small" elevation="large" animation="fadeIn">
+          <Card margin="large" elevation="large" animation="fadeIn">
             <CardHeader pad="medium" background={{ color: colors.primary }}>
               <Text size="large" weight="bold">
                 Users Dashboard
